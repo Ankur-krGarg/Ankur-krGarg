@@ -1,6 +1,6 @@
 ## About me 👋
 
-Hello! I’m Ankur, a self-taught AI & Machine Learning Developer with strong hands-on experience building intelligent systems using Python, LLMs, and knowledge graphs.
+Hello! I’m Ankur Kumar Garg, a self-taught AI & Machine Learning Developer with strong hands-on experience building intelligent systems using Python, LLMs, and knowledge graphs.
 
 Despite having no formal degree in this field, I’ve learned everything through practice, real-world problem-solving, and countless hours with docs, repos, and experiments.
 
